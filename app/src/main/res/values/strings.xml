@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calorieaapp</string>
+    <string name="jogging">Jogging</string>
+    <string name="skipping">Skipping</string>
+    <string name="barbells">BarBells</string>
+    <string name="pushups">PushUps</string>
+    <string name="Calories">Calories</string>
+</resources>
